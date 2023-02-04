@@ -1,0 +1,54 @@
+
+  
+#fullContainer{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+#imageContainer{  
+}   
+
+#infoContainer{
+    padding: 45px;
+    background-color: #D0D0D0; 
+}
+
+h1{
+    font-size: 300%;
+}
+
+img{
+    height: 100%;
+}
+
+body{
+    background-color: ##D0D0D0;
+    margin: 0px;
+}
+
+#botonAñadirCarrito{
+    display: flex;
+    justify-content: center;
+}
+
+#botonAñadirCarrito button{
+    background-color: #3d8168;
+    border: none;
+    border-radius: 1%;
+    width: 100%;
+    height: 80px;
+    color: white;
+    font-size: 19px;
+}
+
+#precio{
+    font-size: 300%;
+    color: #3d8168;
+    font-weight: 900;
+}
+
+p{
+    line-height: 150%;
+    font-size: 140%;
+}
